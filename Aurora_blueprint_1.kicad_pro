@@ -1,14 +1,6 @@
 {
   "board": {
     "3dviewports": [],
-    "design_settings": {
-      "defaults": {},
-      "diff_pair_dimensions": [],
-      "drc_exclusions": [],
-      "rules": {},
-      "track_widths": [],
-      "via_dimensions": []
-    },
     "ipc2581": {
       "dist": "",
       "distpn": "",
@@ -250,7 +242,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "tmu_0.1.kicad_pro",
+    "filename": "Aurora_blueprint_1.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -410,7 +402,7 @@
   },
   "sheets": [
     [
-      "53357263-8781-4661-b4c0-636dcae06523",
+      "09f13de6-dd65-486b-8248-0abedb5208e9",
       "Root"
     ]
   ],
