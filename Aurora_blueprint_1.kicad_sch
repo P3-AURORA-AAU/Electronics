@@ -11,6 +11,8 @@
 		(company "Aurora inc.")
 		(comment 1 "- @lynet_101")
 		(comment 2 "- Sebastian_lindau-skands")
+		(comment 3 "if more power neeeded, the motor assembly can be powered parallel instead")
+		(comment 4 "if parallel motors, then additional 12v regulators might be needed")
 	)
 	(lib_symbols
 		(symbol "Connector:Raspberry_Pi_4"
@@ -4557,7 +4559,7 @@
 				)
 			)
 		)
-		(property "Value" "Arduino_UNO_R2"
+		(property "Value" "Arduino_UNO_R3"
 			(at 163.83 33.9246 90)
 			(effects
 				(font
