@@ -1,8 +1,6 @@
 # expansion slot
 ## power
 18v rail
-12v rail
-5v rail
 
 ## com
 ### custom 6-pin SPI

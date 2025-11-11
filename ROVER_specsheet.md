@@ -36,8 +36,8 @@ charging method: 240V 10A ac
 
 # sensors and electronics
 - camera
-- ultrasonic x 2
-- angel meter
+- Gyroscope
+- IMO
 - gps?
 - light
 - sound
